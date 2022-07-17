@@ -1,5 +1,8 @@
 # Mini-Curso-Data-Science - Aula 02
-
+Manipulação de dados para responder as perguntas de negócio abaixo:
+  Qual o valor médio do aluguel na cidade de Nova York?
+  Quais os nomes das regiões de Nova York?
+  Qual o valor mais caro do aluguel em NY?
 
 # Mini-Curso-Data-Science - Aula 03
 Manipulação de dados para responder as perguntas de negócio abaixo:
