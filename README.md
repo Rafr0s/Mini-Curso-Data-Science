@@ -1,4 +1,4 @@
-# Mini-Curso-Data-Science
+# Mini-Curso-Data-Science - Aula 3
 Manipulação de dados para responder as perguntas de negócio abaixo:
   Quais são as categorias de imóveis que estão cadastradas dentro da base de dados da cidade de NY?
   Quantos usuários(Hosts) únicos cadastrados existem dentro da base de dados da cidade de NY?
